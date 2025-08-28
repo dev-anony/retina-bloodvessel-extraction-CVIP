@@ -48,24 +48,24 @@ The project uses publicly available retinal fundus image datasets such as:
 
 1. Clone the repository:
 
+```
+	 bash
 
-   `bash
+	   git clone https://github.com/dev-anony/retina-bloodvessel-extraction-CVIP.git
 
-   `git clone https://github.com/dev-anony/retina-bloodvessel-extraction-CVIP.git
-
-   `cd retina-bloodvessel-extraction-CVIP
-
-
+	   cd retina-bloodvessel-extraction-CVIP
+```
+  
 
 2. Install dependencies:
 
-`pip install -r requirements.txt`
+	`pip install -r requirements.txt`
 
-  3.Open Jupyter Notebook:
+3. Open Jupyter Notebook:
 
-  `jupyter notebook
+	`jupyter notebook
 
-3. Run `blood_vessels.ipynb` to start the extraction process.
+4. Run `blood_vessels.ipynb` to start the extraction process.
 
 ## Applications
 
