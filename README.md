@@ -48,14 +48,14 @@ The project uses publicly available retinal fundus image datasets such as:
 
 1. Clone the repository:
 
-  ```
-   bash
 
-   git clone https://github.com/dev-anony/retina-bloodvessel-extraction-CVIP.git
+   `bash
 
-   cd retina-bloodvessel-extraction-CVIP
+   `git clone https://github.com/dev-anony/retina-bloodvessel-extraction-CVIP.git
 
-  ```
+   `cd retina-bloodvessel-extraction-CVIP
+
+
 
 2. Install dependencies:
 
